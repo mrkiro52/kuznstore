@@ -2,6 +2,7 @@ PRODUCTS.goods.push({
   name: "Доска магнитно-маркерная",
   description: "+ стёрка и маркеры с подстаканником",
   price: 5000,
+  sold: true,
   photos: [
     "assets/doska-magnit-1.jpg",
     "assets/doska-magnit-2.jpg",
